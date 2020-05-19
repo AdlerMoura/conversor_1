@@ -1,0 +1,19 @@
+*{
+    box-sizing:border-box;
+}
+body{
+    margin:10px;
+}
+h1{
+    background-color: #EECC55;
+}
+#nomeLista{
+    margin-bottom: 0;
+    font-size:30px;
+    font-weight: bold;
+}
+button{
+    background-color: rgb(105, 149, 243);
+    width: 150px;
+    height: 40px;
+}
